@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Stanley Semilla
+email:       semillastan@gmail.com
+author:      Stanley Semilla
+description: "The awesome life of Stanley"
+baseurl:     "http://semillastan.github.io"
+url:         "http://semillastan.github.io"
 
 # Google analytics
 google_analytics:
@@ -20,9 +20,9 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: semillastan
 stackoverflow_id:
-twitter_username:
+twitter_username: semillastan
 google_plus_id:
 linkedin_username:
 angellist_username:
