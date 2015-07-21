@@ -1028,6 +1028,10 @@ blockquote footer {
 .related-post-title {
   border-bottom: thin solid #f3f3f3; }
 
+.post-content p,
+.post-content li {
+  font-size: 14px; }
+
 .post-content span {
   font-weight: 300; }
 
