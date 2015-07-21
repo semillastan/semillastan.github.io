@@ -70,6 +70,8 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 - Developed web applications using Python, Django & Postgresql.
 
+<hr>
+
 ## EDUCATION
 
 ### University of the Philippines
@@ -80,8 +82,12 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 - UP Department of Computer Science - Programming Team (2009)
 - Ranked 18th Overall - ACM International Collegiate Programming Contest in Asia Manila Regional Onsite Contest (2009)
 
+<hr>
+
 ## PROFICIENCIES
 
 **Code:** Python, PHP, Javascript, Java, HTML, CSS
+
 **Framework:** Django, Flask, Wordpress, Laravel, Magento, NodeJS, AngularJS, KeystoneJS
+
 **Software:** Photoshop, Linux, Postgres, MySQL, MongoDB
