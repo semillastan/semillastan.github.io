@@ -13,9 +13,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### Pepperconn Pte. Ltd.
 
-#### Applications Developer
-
-##### January 2013 to present
+#### Applications Developer <small>January 2013 to present</small>
 
 - Worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
 - Working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
