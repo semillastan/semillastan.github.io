@@ -69,3 +69,18 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 #### Junior Software Engineer <span>January 2012 to March 2013</span>
 
 - Developed web applications using Python, Django & Postgresql.
+
+## EDUCATION
+
+### University of the Philippines
+
+#### BS Computer Science <span>2008 to 2013</span>
+- eGLAPT, “Game-based Learning Assessment and Performance Tracing”
+- 10th PeLS e-Learning Conference - Oral Presenter (December, 2011)
+- UP Department of Computer Science - Programming Team (2009)
+- Ranked 18th Overall - ACM International Collegiate Programming Contest in Asia Manila Regional Onsite Contest (2009)
+
+## PROFICIENCIES
+
+**Code:** Python, PHP, Javascript, Java, HTML, CSS
+**Frameworks:** Django, Flask, 
