@@ -952,6 +952,10 @@ footer {
   padding: 2rem;
   text-align: center; }
 
+footer .fa {
+  display: inline-block;
+  padding: 0 15px; }
+
 .social-icons {
   font-size: 1.25rem;
   padding: 0.5em 0 0 0;

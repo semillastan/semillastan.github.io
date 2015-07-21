@@ -7,12 +7,16 @@
     <atom:link href="http://semillastan.github.iohttp://semillastan.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Blogging with Jekyll</title>
-        <description>&lt;p&gt;The awesome life of Stanley begins here.&lt;/p&gt;
+        <title>The life of Stanley</title>
+        <description>&lt;p&gt;The awesome life of Stanley begins here (again).&lt;/p&gt;
+
+&lt;p&gt;In an attempt to create the best way of showing who Stanley is, this page was created. Finally, a decision was made: to stay with Github Pages together with Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Welcome to my page.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://semillastan.github.iohttp://semillastan.github.io/jekyll/semillastan/2015/07/20/blogging-with-jekyll/</link>
-        <guid isPermaLink="true">http://semillastan.github.iohttp://semillastan.github.io/jekyll/semillastan/2015/07/20/blogging-with-jekyll/</guid>
+        <link>http://semillastan.github.iohttp://semillastan.github.io/2015/07/20/blogging-with-jekyll/</link>
+        <guid isPermaLink="true">http://semillastan.github.iohttp://semillastan.github.io/2015/07/20/blogging-with-jekyll/</guid>
       </item>
     
   </channel>
