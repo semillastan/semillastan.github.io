@@ -3,7 +3,7 @@ layout:     post
 title:      The life of Stanley
 date:       2015-07-20
 summary:    Welcome to the awesome life of Stanley.
-tags: jekyll semillastan
+tags:		jekyll semillastan
 ---
 
 The awesome life of Stanley begins here (again).

@@ -7,7 +7,7 @@ baseurl:     "http://semillastan.github.io"
 url:         "http://semillastan.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-64875483-1
 
 # Optional features
 animated:           false
@@ -33,7 +33,7 @@ paypal_url: semillastan@gmail.com
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
