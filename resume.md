@@ -15,8 +15,8 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 #### Applications Developer
 ##### January 2013 to present
 
-- I worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
-- We are working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
+- Worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
+- Working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
 
 ### JXM Technology Solutions Inc.
 #### Software Consultant
@@ -46,11 +46,19 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 #### Software Developer | Lecturer
 ##### June 2013 to October 2013
 
-- I worked as a front-end developer for Nike Dashboard. This task includes creating data visualization which comes from Nike FuelBand products.
-- I also taught Python short courses. This is a 5-day course which includes Python programming and an intro to Django. On my term, I was able to teach HTML/CSS and version control using Github.
+- Worked as a front-end developer for Nike Dashboard. This task includes creating data visualization which comes from Nike FuelBand products.
+- Taught Python short courses. This is a 5-day course which includes Python programming and an intro to Django. On my term, I was able to teach HTML/CSS and version control using Github.
 
 ### UP Information Technology Development Center
 #### Software Developer
 ##### January 2013 to June 2013
 
-- I worked under the eUP project of the University of the Philippines. I developed a website for an office, and created tools for internal use of the organization. 
+- Worked under the eUP project of the University of the Philippines. I developed a website for an office, and created tools for internal use of the organization.
+- Assigned to train other UP staff to use Google Apps and other computer related tools.
+- Developed [UP OSU](http://osu.up.edu.ph) using Wordpress. This was my first Wordpress project which will be used to disseminate UP Gazette to other UP constituents.
+
+### Icannhas Inc.
+#### Junior Software Engineer
+##### January 2012 to March 2013
+
+- Developed web applications using Python, Django & Postgresql.
