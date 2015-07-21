@@ -88,7 +88,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ## PROFICIENCIES
 
-**Code:** Python, PHP, Javascript, Java, HTML, CSS
+**Code:** Python, PHP, Javascript, Java, HTML, CSS, LESS
 
 **Framework:** Django, Flask, Wordpress, Laravel, Magento, NodeJS, AngularJS, KeystoneJS
 
