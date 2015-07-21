@@ -22,7 +22,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 #### Software Consultant <span>November 2014 to present</span>
 
-- Data Analysis project using Python, MongoDB and Tableau. My task is to scrape data from a web source, and use it to map an organization's internal data source using Python, Selenium and MongoDB. Data was transformed into re-usable data sets which will be used to generate reports on Tableau for an organization's business development. Benefiting departments include sales, distribution and manufacturing.
+- Data Analysis project using Python, MongoDB and Tableau. My task is to scrape data from a web source, and use it to map an organization's internal data source using Python, Selenium and MongoDB.
 - Exploration of new protocols which can be used as a communication gateway from one application to another application.
 
 ### Freelancer
@@ -46,16 +46,16 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 #### Software Developer | Lecturer <span>June 2013 to October 2013</span>
 
-- Worked as a front-end developer for Nike Dashboard. This task includes creating data visualization which comes from Nike FuelBand products.
-- Taught Python short courses. This is a 5-day course which includes Python programming and an intro to Django. On my term, I was able to teach HTML/CSS and version control using Github.
+- Worked as a front-end developer for Nike Dashboard.
+- Taught Python 5-day short courses. I was able to teach HTML/CSS and version control using Github.
 
 ### UP Information Technology Development Center
 
 #### Software Developer <span>January 2013 to June 2013</span>
 
-- Worked under the eUP project of the University of the Philippines. I developed a website for an office, and created tools for internal use of the organization.
+- Worked under the eUP project of the University of the Philippines.
 - Assigned to train other UP staff to use Google Apps and other computer related tools.
-- Developed [UP OSU](http://osu.up.edu.ph) using Wordpress. This was my first Wordpress project which will be used to disseminate UP Gazette to other UP constituents.
+- Developed [UP OSU](http://osu.up.edu.ph) using Wordpress.
 
 ### Icannhas Inc.
 
