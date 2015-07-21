@@ -9,6 +9,8 @@ I'm a full stack web developer who enjoys making life easier. I enjoy building a
 
 Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays with several tools that will help me understand and create projects for specific use. I spend my free time reading articles from [Reddit](http://reddit.com) or [Hacker News](https://news.ycombinator.com). Oh, I also love basketball (both international and local) and I do play Counter Strike: Global Offensive. *Feel free to add me up on Steam*
 
+<hr>
+
 ## EXPERIENCE
 
 ### Pepperconn Pte. Ltd.
