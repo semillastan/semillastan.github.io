@@ -20,27 +20,21 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### JXM Technology Solutions Inc.
 
-#### Software Consultant
-
-##### November 2014 to present
+#### Software Consultant <span>November 2014 to present</span>
 
 - Data Analysis project using Python, MongoDB and Tableau. My task is to scrape data from a web source, and use it to map an organization's internal data source using Python, Selenium and MongoDB. Data was transformed into re-usable data sets which will be used to generate reports on Tableau for an organization's business development. Benefiting departments include sales, distribution and manufacturing.
 - Exploration of new protocols which can be used as a communication gateway from one application to another application.
 
 ### Freelancer
 
-#### Full Stack Web Developer
-
-##### January 2012 to present
+#### Full Stack Web Developer <span>January 2012 to present</span>
 
 - [MaaxClub](http://maa.grok.my) - **Role**: Full stack developer. **Technologies used:** Python/Django, MySQL, AngularJS, HTML/CSS.
 - [SupportGenie](http://supportgenie.co) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
 
 ### Bridge
 
-#### Consultant
-
-##### June 2014 to present
+#### Consultant <span>June 2014 to present</span>
 
 - A startup group from [UP Information Technology Development Center](http://itdc.up.edu.ph) that aims to build and develop business solutions using Python as main technology option.
 - Projects include the ff:
@@ -50,18 +44,14 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### System Information Technology Foundation
 
-#### Software Developer | Lecturer
-
-##### June 2013 to October 2013
+#### Software Developer | Lecturer <span>June 2013 to October 2013</span>
 
 - Worked as a front-end developer for Nike Dashboard. This task includes creating data visualization which comes from Nike FuelBand products.
 - Taught Python short courses. This is a 5-day course which includes Python programming and an intro to Django. On my term, I was able to teach HTML/CSS and version control using Github.
 
 ### UP Information Technology Development Center
 
-#### Software Developer
-
-##### January 2013 to June 2013
+#### Software Developer <span>January 2013 to June 2013</span>
 
 - Worked under the eUP project of the University of the Philippines. I developed a website for an office, and created tools for internal use of the organization.
 - Assigned to train other UP staff to use Google Apps and other computer related tools.
@@ -69,8 +59,6 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### Icannhas Inc.
 
-#### Junior Software Engineer
-
-##### January 2012 to March 2013
+#### Junior Software Engineer <span>January 2012 to March 2013</span>
 
 - Developed web applications using Python, Django & Postgresql.
