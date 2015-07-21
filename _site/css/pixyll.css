@@ -1032,8 +1032,17 @@ blockquote footer {
 .post-content li {
   font-size: 14px; }
 
+.post-content h4 {
+  font-weight: 600; }
+
 .post-content span {
   font-weight: 300; }
+
+.less-margin h3 {
+  margin-bottom: 15px; }
+
+.less-margin h4 {
+  margin-bottom: 10px; }
 
 @media screen and (min-width: 32rem) {
   html {
