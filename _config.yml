@@ -20,15 +20,16 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
+facebook_username: semillastan
 github_username: semillastan
-stackoverflow_id:
+stackoverflow_id: semillastan
 twitter_username: semillastan
-google_plus_id:
-linkedin_username:
+google_plus_id: semillastan
+linkedin_username: semillastan
 angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
+medium_id: semillastan
+bitcoin_url: 352Yvz9uZDYugNnCXz6YJwL2QjUASmBxda
+paypal_url: semillastan@gmail.com
 flattr_button:
 
 # Post sharing icons
