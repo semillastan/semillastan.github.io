@@ -32,7 +32,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### Freelancer
 
-#### Full Stack Web Developer <span>January 2012 to present</span>
+#### Full Stack Web Developer <span>June 2010 to present</span>
 
 - [MaaxClub](http://maa.grok.my) - **Role**: Full stack developer. **Technologies used:** Python/Django, MySQL, AngularJS, HTML/CSS.
 - [SupportGenie](http://supportgenie.co) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
@@ -59,7 +59,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### UP Information Technology Development Center
 
-#### Software Developer <span>January 2013 to June 2013</span>
+#### Software Developer <span>April 2012 to May 2013</span>
 
 - Worked under the eUP project of the University of the Philippines.
 - Assigned to train other UP staff to use Google Apps and other computer related tools.
@@ -68,7 +68,7 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
 
 ### Icannhas Inc.
 
-#### Junior Software Engineer <span>January 2012 to March 2013</span>
+#### Junior Software Engineer <span>January 2011 to February 2012</span>
 
 - Developed web applications using Python, Django & Postgresql.
 
