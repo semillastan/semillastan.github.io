@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /resume/
+permalink: /portfolio/
 ---
 
 I present to you, some of my works:
