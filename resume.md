@@ -9,17 +9,17 @@ I'm a full stack web developer who enjoys making life easier. I enjoy building a
 
 Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays with several tools that will help me understand and create projects for specific use. I spend my free time reading articles from [Reddit](http://reddit.com) or [Hacker News](https://news.ycombinator.com). Oh, I also love basketball (both international and local) and I do play Counter Strike: Global Offensive. *Feel free to add me up on Steam*
 
+Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
+
 <hr>
 
 ## EXPERIENCE
 
-### Pepperconn Pte. Ltd.
+### JWay Group Inc.
 
-#### Applications Developer <span>January 2013 to present</span>
+#### Web Applications Engineer <span>August 2015 to present</span>
 
-
-- Worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
-- Working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
+- Working with [ChronosCloud](http://www.chronoscloud.com) using Rails.
 
 
 ### JXM Technology Solutions Inc.
@@ -47,6 +47,14 @@ Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays wi
   - [Eaglewatch Mapper](http://eaglewatchmapper.pybridge.com/): This is a tool to allow Eaglewatch group create better decisions where to assign security employees to the nearest/closest detachments/posts. **Technologies used:** Python, Django, Bootstrap, Postgresql with PostGIS.
   - [Mickey Charny](http://mickeycharny.com) - Built with Wordpress 4.0.
   - [Financial Market Betting](http://financialmarketbetting.com) - Built with Wordpress 4.0.
+
+
+### Pepperconn Pte. Ltd.
+
+#### Applications Developer <span>January 2013 to August 2015</span>
+
+- Worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
+- Working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
 
 
 ### System Information Technology Foundation
