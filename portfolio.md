@@ -7,6 +7,7 @@ permalink: /portfolio/
 I present to you, some of my works:
 
 - [MaaxClub](http://maa.grok.my)
-- [SupportGenie](http://supportgenie.co)
+- [SupportGenie](http://supportgenie.io)
 - [Financial Market Betting](http://financialmarketbetting.com)
 - [Mickey Charny](http://mickeycharny.com)
+- [UP OSU](http://osu.up.edu.ph)
