@@ -41,7 +41,7 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 ### Bridge
 
-#### Consultant <span>June 2014 to present</span>
+#### Consultant <span>June 2014 to December 2015</span>
 
 - A startup group from [UP Information Technology Development Center](http://itdc.up.edu.ph) that aims to build and develop business solutions using Python as main technology option.
 - Projects include the ff:
