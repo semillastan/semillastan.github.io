@@ -35,8 +35,8 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 #### Full Stack Web Developer <span>June 2010 to present</span>
 
 - [MaaxClub](http://maa.grok.my) - **Role**: Full stack developer. **Technologies used:** Python/Django, MySQL, AngularJS, HTML/CSS.
-- [SupportGenie](http://supportgenie.co) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
-- [FBC](http://fbcsflu.com) - **Role**: Full stack developer. **Technologies used:** NodeJS, KeystoneJS, HTML/CSS/LESS.
+- [Support Genie](http://supportgenie.io) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
+- [FBC](http://fbcsflu.com) - **Role**: Full stack developer. **Technologies used:** Python, Django (Wagtail), HTML/CSS/SASS.
 
 
 ### Bridge
