@@ -97,8 +97,8 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 ## PROFICIENCIES
 
-**Code:** Python, PHP, Javascript, Java, HTML, CSS, LESS
+**Code:** Ruby, Python, PHP, Javascript, Java, HTML, CSS, LESS
 
-**Framework:** Django, Flask, Wordpress, Laravel, Magento, NodeJS, AngularJS, KeystoneJS
+**Database:** Postgres, MySQL, MongoDB, Redis
 
-**Software:** Photoshop, Linux, Postgres, MySQL, MongoDB
+**Framework:** Django, Flask, Wagtail, Ruby on Rails, Sinatra, Wordpress, Laravel, Magento, NodeJS, AngularJS, KeystoneJS
