@@ -15,12 +15,11 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 ## EXPERIENCE
 
-### JWay Group Inc.
+### Exploration
 
-#### Web Applications Engineer <span>August 2015 to present</span>
+#### Software Engineer <span>January 2017 to present</span>
 
-- Working with [ChronosCloud](http://www.chronoscloud.com) using Rails.
-
+- [Exploration Data](http://exploration.io) - **Role**: Full stack developer. **Technologies used:** Python/Django, React/Redux.
 
 ### JXM Technology Solutions Inc.
 
@@ -29,7 +28,6 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 - Data Analysis project using Python, MongoDB and Tableau. My task is to scrape data from a web source, and use it to map an organization's internal data source using Python, Selenium and MongoDB.
 - Exploration of new protocols which can be used as a communication gateway from one application to another application.
 
-
 ### Freelancer
 
 #### Full Stack Web Developer <span>June 2010 to present</span>
@@ -37,6 +35,11 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 - [MaaxClub](http://maa.grok.my) - **Role**: Full stack developer. **Technologies used:** Python/Django, MySQL, AngularJS, HTML/CSS.
 - [Support Genie](http://supportgenie.io) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
 
+### JWay Group Inc.
+
+#### Web Applications Engineer <span>August 2015 to Janaury 2017</span>
+
+- Working with [ChronosCloud](http://www.chronoscloud.com) using Rails.
 
 ### Bridge
 
