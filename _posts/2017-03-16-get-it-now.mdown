@@ -6,7 +6,7 @@ summary:    by Richard N. Semilla
 tags:       devotion
 ---
 
-<small>Written by Richard N. Semilla</small>
+<p>Written by Richard N. Semilla</p>
 <br /><br />
 In 1995, my brother-in-law asked me if I want his Volkswagen, super beetle, 1972 model. He told me that I can use it for ministry in La Union. I was a bit shy like a boy because I never expected such an offer for free. He further said, “Get it now.” I got it and used it for ministry for many years and even till this day.
 <br /><br />
@@ -20,4 +20,4 @@ One thing that we can learn from Abraham and other heroes of faith is that they 
 <br /><br />
 Never miss something in your life just because you did not take risk. That’s regret. If you want to experience joy and inner motivation, get God’s offer now and trust Him to bless your life. Don’t worry what’s next. Just trust Him. Take the risk!
 <br /><br /><br /><br />
-** Richard N. Semilla is my dad, a pastor from FBC La Union.
+<p>** Richard N. Semilla is my dad, a pastor from FBC La Union.</p>
