@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      Extroverted introvert
+date:       2017-03-23
+summary:    by Stanley Semilla
+tags:       article
+---
+
+<p>Written by Stanley Semilla</p>
