@@ -8,9 +8,9 @@ tags:       article
 
 <p>Sinulat ni Stanley Semilla</p>
 
-Sana bukas makalimutan na natin ang kahapon
-Sana bukas ang lahat ng dumi ay ating itatapon
-Sana bukas ang mga ala-alang dala mo ay maglaho
-Sana bukas ang umiiyak na pusong ito ay magbago
+Sana bukas makalimutan na natin ang kahapon<br />
+Sana bukas ang lahat ng dumi ay ating itatapon<br />
+Sana bukas ang mga ala-alang dala mo ay maglaho<br />
+Sana bukas ang umiiyak na pusong ito ay magbago<br />
 
 <small>itutuloy</small>
