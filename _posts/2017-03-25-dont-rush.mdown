@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      Don't Rush
+date:       2017-03-25
+summary:    by Stanley Semilla
+tags:       article
+---
+
+<p>Written by Stanley Semilla</p>
