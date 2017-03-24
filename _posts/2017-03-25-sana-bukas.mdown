@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      Sana Bukas
+date:       2017-03-25
+summary:    isinulat ni Bayani
+tags:       article
+---
+
+<p>Sinulat ni Stanley Semilla</p>
+
+Sana bukas makalimutan na natin ang kahapon
+Sana bukas ang lahat ng dumi ay ating itatapon
+Sana bukas ang mga ala-alang dala mo ay maglaho
+Sana bukas ang umiiyak na pusong ito ay magbago
+
+<small>itutuloy</small>
