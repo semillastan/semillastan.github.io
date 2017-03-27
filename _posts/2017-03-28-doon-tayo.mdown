@@ -2,7 +2,7 @@
 layout:     post
 title:      Doon Tayo
 date:       2017-03-28
-summary:    Para sa atin
+summary:    Instagram post para sa tulad natin
 tags:       instagram artikulo
 ---
 
