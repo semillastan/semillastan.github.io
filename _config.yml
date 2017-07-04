@@ -3,8 +3,8 @@ title:       Stanley Semilla
 email:       semillastan@gmail.com
 author:      Stanley Semilla
 description: "The awesome life of Stanley"
-baseurl:     "http://semillastan.github.io"
-url:         "http://semillastan.github.io"
+baseurl:     "https://semillastan.github.io"
+url:         "https://semillastan.github.io"
 
 # Google analytics
 google_analytics: UA-64875483-1
