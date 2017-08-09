@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      Tech Update
+date:       2017-08-09
+summary:    What I use on a daily basis
+tags:       jekyll semillastan tech gadgets
+---
+
+# As of August 9, 2017
+
+I'm a big fan of tech. I am subscribed to Marques Brownless (MKBHD), UrAvgConsumer, Unbox Therapy, Jonathan Morrison, 9to5Mac, DetroitBorg, RizKnows, and a lot more. Everyday, I'd go check if they have a new video and see if it's worth getting. So today, I'd like to update you with what I use on a daily basis.
+
+# Main Device/Gadget
+- [iPhone 7](https://www.apple.com/ph/iphone-7/) (32Gb, Matte Black)
+- [iPhone 5s](https://www.apple.com/ph/iphone-5s/) (16Gb, White/Gold)
+- [MacBook Pro 2017](https://www.apple.com/ph/shop/buy-mac/macbook-pro?product=MPXQ2PP/A&step=config#) (Non-touchbar, 256GB Storage, 16GB Memory, Space Grey)
+- [Apple Watch](https://www.apple.com/ph/shop/buy-watch/apple-watch) (42mm, Nike Edition)
+
+# At Home
+- [Satechi Type-C Slim Adapter](https://satechi.net/collections/hubs-docks/products/satechi-slim-aluminum-type-c-multi-port-adapter)
+- Anker PowerLine+ Lightning (6ft, Black)
+
+# Away
+- [HyperDrive USB-C Hub](https://www.hypershop.com/products/usb-c-5-in-1-hub-with-pass-though-usb-c-charging)
+- [LowePro Streetline 140](http://store.lowepro.com/streetline-sl-140)
+- Anker PowerLine+ Lightning (3ft, Red)
+- Anker PowerCore 13400 mAh
+- Aukey USB-A to USB-C (3ft)
+- Fujifilm XT-1
+- Fujifilm 23mm f2.0
