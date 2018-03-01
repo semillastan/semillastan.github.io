@@ -17,9 +17,10 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 ### Exploration
 
-#### Software Engineer <span>January 2017 to present</span>
+#### Senior Software Engineer <span>January 2017 to present</span>
 
-- [Exploration Data](http://exploration.io) - **Role**: Full stack developer. **Technologies used:** Python/Django, React/Redux.
+- [Exploration Data](https://exploration.io) - **Role**: Full stack developer. **Technologies used:** Python/Django, React/Redux.
+- [Podcast Converter](https://convert.exploration.io) - **Role**: Full stack developer. **Technologies used:** Python/Django, React/Redux.
 
 ### JXM Technology Solutions Inc.
 

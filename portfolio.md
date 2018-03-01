@@ -4,10 +4,12 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-I present to you, some of my works:
+The projects I worked on:
 
 - [MaaxClub](http://maa.grok.my)
 - [SupportGenie](http://supportgenie.io)
-- [Financial Market Betting](http://financialmarketbetting.com)
-- [Mickey Charny](http://mickeycharny.com)
 - [UP OSU](http://osu.up.edu.ph)
+- [Tao of Shop](http://www.taoofshop.com/)
+- [ChronosCloud](https://chronoscloud.com/)
+- [Exploration Data](https://exploration.io)
+- [Podcast Converter](https://convert.exploration.io)
