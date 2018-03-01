@@ -15,7 +15,7 @@ Email Address: [stan@phdevs.com](mailto: stan@phdevs.com)
 
 ## EXPERIENCE
 
-### Exploration
+### Exploration Group LLC
 
 #### Senior Software Engineer <span>January 2017 to present</span>
 
@@ -40,7 +40,7 @@ Email Address: [stan@phdevs.com](mailto: stan@phdevs.com)
 
 #### Web Applications Engineer <span>August 2015 to Janaury 2017</span>
 
-- Working with [ChronosCloud](https://www.chronoscloud.com) using Rails.
+- Working with [ChronosCloud](https://www.chronoscloud.com) using Ruby on Rails.
 
 ### Bridge
 
