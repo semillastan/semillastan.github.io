@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Stanley Semilla
-subtitle: Software Engineer | Web Developer
+subtitle: Software & Data Engineer
 permalink: /resume/
 ---
 
 I'm a full stack web developer who enjoys making life easier. I enjoy building applications for individuals who wants to gather, produce and share information.
 
-Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays with several tools that will help me understand and create projects for specific use. I spend my free time reading articles from [Reddit](http://reddit.com) or [Hacker News](https://news.ycombinator.com). Oh, I also love basketball (both international and local) and I do play Counter Strike: Global Offensive. *Feel free to add me up on Steam*
+Outside of the web stack, I am a Master Guardian Elite (CS:GO Rank) who plays with my brothers. I spend my free time reading articles from [Reddit](http://reddit.com) or [Hacker News](https://news.ycombinator.com). Oh, I also love basketball (both international and local) and I do play Counter Strike: Global Offensive. *Feel free to add me up on Steam*
 
-Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
+Email Address: [stan@phdevs.com](mailto: stan@phdevs.com)
 
 <hr>
 
@@ -34,13 +34,13 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 #### Full Stack Web Developer <span>June 2010 to present</span>
 
 - [MaaxClub](http://maa.grok.my) - **Role**: Full stack developer. **Technologies used:** Python/Django, MySQL, AngularJS, HTML/CSS.
-- [Support Genie](http://supportgenie.io) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
+- [Support Genie](https://supportgenie.io) - **Role**: Full stack developer. **Technologies used:** Python/Flask, MongoDB, AngularJS, HTML/CSS/LESS.
 
 ### JWay Group Inc.
 
 #### Web Applications Engineer <span>August 2015 to Janaury 2017</span>
 
-- Working with [ChronosCloud](http://www.chronoscloud.com) using Rails.
+- Working with [ChronosCloud](https://www.chronoscloud.com) using Rails.
 
 ### Bridge
 
@@ -57,7 +57,7 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 #### Applications Developer <span>January 2013 to August 2015</span>
 
-- Worked on [Tao of Shop](http://www.taoofshop.com/taoofshop/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
+- Worked on [Tao of Shop](http://www.taoofshop.com/) which is an e-commerce platform built with PHP. Most of my tasks include developing consumer/client websites based on the TOS platform. Some of the consumer sites we created includes the ff: [WineStudio](http://winestudio.com.sg), [Rochester Market](http://www.rochestermarket.sg) and [La Putri](http://www.laputri.com). I also worked on the Insights module of the dashboard which uses Highcharts for visualizing data sets.
 - Working on the 2nd version of Tao of Shop. Laravel, AngularJS and LESS are the major development tools we decided to use for developing this platform.
 
 
@@ -86,6 +86,15 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 <hr>
 
+## Certificates
+
+### Youtube Certified Partner
+
+- Asset Monetization
+- Content Ownership
+
+<hr>
+
 ## EDUCATION
 
 ### University of the Philippines
@@ -100,8 +109,8 @@ Email Address: [semillastan@gmail.com](mailto: semillastan@gmail.com)
 
 ## PROFICIENCIES
 
-**Code:** Ruby, Python, PHP, Javascript, Java, HTML, CSS, LESS
+**Code:** Python, Ruby, PHP, Javascript, Java, HTML, CSS, LESS
 
 **Database:** Postgres, MySQL, MongoDB, Redis
 
-**Framework:** Django, Flask, Wagtail, Ruby on Rails, Sinatra, Wordpress, Laravel, Magento, NodeJS, AngularJS, KeystoneJS
+**Framework:** Django, Flask, Wagtail, Ruby on Rails, Sinatra, Wordpress, Laravel, Magento, Node, ReactJS, AngularJS, KeystoneJS
