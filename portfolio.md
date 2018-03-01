@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 #### [Exploration Data](https://exploration.io)
 
-[![exploration.png](https://s26.postimg.org/poin4y561/exploration.png | width=400)](https://exploration.io)
+[![exploration.png](https://s26.postimg.org/poin4y561/exploration.png)](https://exploration.io)
 
 #### [Podcast Converter](https://convert.exploration.io)
 
